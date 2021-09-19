@@ -3,7 +3,7 @@ name: General
 about: 平時練習有問題或其他疑難雜症請點我（標題範例：[General] Python 套件安裝失敗）
 title: "[General] problem_title"
 labels: general
-assignees: 'dada8397'
+assignees: 'dada8397', 'St-Ren', 'yichensu'
 
 ---
 
